@@ -32,51 +32,51 @@ class WzMenuOverview extends Component {
     this.overviewSections = {
       securityInformation: {
         id: 'securityInformation',
-        text: 'Security information management',
+        text: 'Secur informat managem',
       },
       auditing: { id: 'auditing', text: 'Auditing and Policy Monitoring' },
       threatDetection: {
         id: 'threatDetection',
-        text: 'Threat detection and response',
+        text: 'Thr detect and respo',
       },
       regulatoryCompliance: {
         id: 'regulatoryCompliance',
-        text: 'Regulatory Compliance',
+        text: 'Regulat Complia',
       },
       general: {
         id: WAZUH_MODULES_ID.SECURITY_EVENTS,
         cyTestId: WAZUH_MENU_MODULES_SECTIONS_CY_TEST_ID.SECURITY_EVENTS,
-        text: 'Security Events',
+        text: 'Secur Events',
       },
       fim: {
         id: WAZUH_MODULES_ID.INTEGRITY_MONITORING,
         cyTestId: WAZUH_MENU_MODULES_SECTIONS_CY_TEST_ID.INTEGRITY_MONITORING,
-        text: 'Integrity Monitoring',
+        text: 'Integry Monitoring',
       },
       aws: {
         id: WAZUH_MODULES_ID.AMAZON_WEB_SERVICES,
         cyTestId: WAZUH_MENU_MODULES_SECTIONS_CY_TEST_ID.AMAZON_WEB_SERVICES,
-        text: 'Amazon AWS',
+        text: 'Aman AWS',
       },
       office: {
         id: WAZUH_MODULES_ID.OFFICE_365,
         cyTestId: WAZUH_MENU_MODULES_SECTIONS_CY_TEST_ID.OFFICE_365,
-        text: 'Office 365',
+        text: 'Offe 365',
       },
       gcp: {
         id: WAZUH_MODULES_ID.GOOGLE_CLOUD_PLATFORM,
         cyTestId: WAZUH_MENU_MODULES_SECTIONS_CY_TEST_ID.GOOGLE_CLOUD_PLATFORM,
-        text: 'Google Cloud Platform',
+        text: 'Gooe Clod Plaform',
       },
       pm: {
         id: WAZUH_MODULES_ID.POLICY_MONITORING,
         cyTestId: WAZUH_MENU_MODULES_SECTIONS_CY_TEST_ID.POLICY_MONITORING,
-        text: 'Policy Monitoring',
+        text: 'Polcy Monitorng',
       },
       sca: {
         id: WAZUH_MODULES_ID.SECURITY_CONFIGURATION_ASSESSMENT,
         cyTestId: WAZUH_MENU_MODULES_SECTIONS_CY_TEST_ID.SECURITY_CONFIGURATION_ASSESSMENT,
-        text: 'Security configuration assessment',
+        text: 'Securty configuation assesment',
       },
       audit: {
         id: WAZUH_MODULES_ID.AUDITING,
@@ -116,7 +116,7 @@ class WzMenuOverview extends Component {
       mitre: {
         id: WAZUH_MODULES_ID.MITRE_ATTACK,
         cyTestId: WAZUH_MENU_MODULES_SECTIONS_CY_TEST_ID.MITRE_ATTACK,
-        text: '33MITRE ATT&CK',
+        text: 'KMITRE ATT&CK',
       },
       pci: {
         id: WAZUH_MODULES_ID.PCI_DSS,
