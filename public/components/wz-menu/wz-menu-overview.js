@@ -116,7 +116,7 @@ class WzMenuOverview extends Component {
       mitre: {
         id: WAZUH_MODULES_ID.MITRE_ATTACK,
         cyTestId: WAZUH_MENU_MODULES_SECTIONS_CY_TEST_ID.MITRE_ATTACK,
-        text: 'MITRE ATT&CK',
+        text: '33MITRE ATT&CK',
       },
       pci: {
         id: WAZUH_MODULES_ID.PCI_DSS,
