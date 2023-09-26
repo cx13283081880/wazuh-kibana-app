@@ -106,7 +106,7 @@ export const getAgentSections = (menuAgent) => {
     },
     mitre: {
       id: WAZUH_MODULES_ID.MITRE_ATTACK,
-      text: 'MITRE ATT&CK',
+      text: '22MITRE ATT&CK',
       isPin: menuAgent.mitre ? menuAgent.mitre : false,
     },
     pci: {
