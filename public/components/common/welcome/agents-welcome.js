@@ -177,8 +177,8 @@ export const AgentsWelcome = compose(
           isPin: true,
         },
         mitre: {
-          id: '11mitre',
-          text: 'MITRE ATT&CK',
+          id: 'mitre',
+          text: '11MITRE ATT&CK',
           isPin: true,
         },
       };
