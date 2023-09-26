@@ -91,7 +91,7 @@ export const WAZUH_MODULES = {
       'Alerts resulting from VirusTotal analysis of suspicious files via an integration with their API.'
   },
   mitre: {
-    title: 'MITRE ATT&CK',
+    title: '2MITRE ATT&CK2',
     description:
       'Security events from the knowledge base of adversary tactics and techniques based on real-world observations'
   },
