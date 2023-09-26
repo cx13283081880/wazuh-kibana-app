@@ -5,7 +5,7 @@ export const OVERVIEW_PAGE = {
   systemAuditing: '//*[contains(@class,"euiTitle euiTitle--small euiCard__title")]//*[contains(text(),"System auditing")]',
   securityInformationAssessment: '//*[contains(@class,"euiTitle euiTitle--small euiCard__title")]//*[contains(text(),"Security configuration assessment")]',
   vulnerabilities: '//*[contains(@class,"euiTitle euiTitle--small euiCard__title")]//*[contains(text(),"Vulnerabilities")]',
-  mitre: '//*[contains(@class,"euiTitle euiTitle--small euiCard__title")]//*[contains(text(),"MITRE ATT&CK")]',
+  mitre: '//*[contains(@class,"euiTitle euiTitle--small euiCard__title")]//*[contains(text(),"1MITRE ATT&CK1")]',
   pciDSS: '//*[contains(@class,"euiTitle euiTitle--small euiCard__title")]//*[contains(text(),"PCI DSS")]',
   nist: '//*[contains(@class,"euiTitle euiTitle--small euiCard__title")]//*[contains(text(),"NIST")]',
   tsc: '//*[contains(@class,"euiTitle euiTitle--small euiCard__title")]//*[contains(text(),"TSC")]',
